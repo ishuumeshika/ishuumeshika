@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ISHANI 🌸!;Frontend+Developer;HNDIT+Student;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=435&lines=Hi,+I'm+ISHANI!;Frontend+Developer;HNDIT+Student;Tech+Enthusiast" alt="Typing SVG" />
   <h3>A passionate frontend developer from Sri Lanka 🇱🇰</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=IshaniUmeshika&label=Profile%20views&color=FF1493&style=flat" alt="IshaniUmeshika" />
