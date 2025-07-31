@@ -19,7 +19,7 @@
 
 - 🔭 I'm currently working on **lowyer manegment system**
 - 🌱 I'm currently pursuing **HNDIT at SLIATE**
-- 💬 Ask me about **React, JavaScript, Web Development**
+- 💬 Ask me about **React, JavaScript,UI/UX Design, Web Development**
 - 📫 How to reach me: **ishuumeshika73@gmail.com**
 - ⚡ Fun fact: **I think I am funny** 😄
 - 🎯 Goal: **Creating impactful digital experiences**
