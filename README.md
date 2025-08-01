@@ -72,8 +72,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaniUmeshika&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=IshaniUmeshika&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
 </div>
+
 
 ---
 
@@ -109,7 +110,7 @@
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
