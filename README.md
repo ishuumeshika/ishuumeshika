@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=435&lines=Hi,+I'm+ISHANI!;Frontend+Developer;HNDIT+Student;Tech+Enthusiast" alt="Typing SVG" />
   <h3>A passionate frontend developer from Sri Lanka 🇱🇰</h3>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=IshaniUmeshika&label=Profile%20views&color=FF1493&style=flat" alt="IshaniUmeshika" />
+    <img src="https://komarev.com/ghpvc/?username=IshuUmeshika&label=Profile%20views&color=FF1493&style=flat" alt="IshuUmeshika" />
     <a href="https://github.com/IshaniUmeshika?tab=followers">
-      <img src="https://img.shields.io/github/followers/IshaniUmeshika?label=Followers&style=social" alt="GitHub followers" />
+      <img src="https://img.shields.io/github/followers/IshuUmeshika?label=Followers&style=social" alt="GitHub followers" />
     </a>
   </p>
 </div>
@@ -67,12 +67,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshaniUmeshika&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaniUmeshika&layout=compact&langs_count=8&theme=blue-green&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshuUmeshika&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshuUmeshika&layout=compact&langs_count=8&theme=blue-green&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=IshaniUmeshika&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=IshuUmeshika&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 
@@ -81,7 +81,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaniUmeshika&custom_title=Ishani's%20Contribution%20Graph&bg_color=&0D1117color=FF1493&line=1E88E5&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IshuUmeshika&custom_title=Ishani's%20Contribution%20Graph&bg_color=&0D1117color=FF1493&line=1E88E5&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -89,10 +89,10 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ishaniumeshiks" target="_blank">
+  <a href="https://linkedin.com/in/ishuumeshiks" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://fb.com/ishanuumeshika" target="_blank">
+  <a href="https://fb.com/ishuumeshika" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
   <a href="mailto:ishuumeshika73@gmail.com">
